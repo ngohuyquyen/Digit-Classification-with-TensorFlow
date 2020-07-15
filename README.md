@@ -1,1 +1,1 @@
-# Digit-Classification-with-TensorFlow
+# Digit-and-Letter-Classification-with-TensorFlow
